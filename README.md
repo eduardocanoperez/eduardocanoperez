@@ -1,7 +1,7 @@
-  - 👋 Hi, I’m @eduardo .
-- 👀 I’m interested in  aprender y  colaborar  en proyectos  TI.
-- 🌱 I’m currently learning  python ,  git  y  github.  
-- 💞️ I’m looking to collaborate con cualquier   persona en IT.
+  - 👋 hola, soy @eduardo .
+- 👀 estoy interesado en aprender y colaborar en proyectos Tecnologia.
+- 🌱 en este momento estoy aprendiendo:  python ,  git  y  github.  
+- 💞️ me gustaria colaborar con cualquier persona en la industria, para juntos alimentar nuestro conocimiento.
 - 📫 Cómo contactarme😎 Twitter @EduardoCanoP
   
 <!---       
