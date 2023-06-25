@@ -1,5 +1,5 @@
 - 👋 hola, soy @eduardo.
-- 👀 estoy interesado en aprender y colaborar en proyectos Tecnologia.
+- 👀 estoy interesado en colaborar en proyectos Tecnologia.
 - 🌱 en este momento las tecnologias con las que trabajo:  HTML, CSS, JavaScript, Python, git
 - ☕ proximas a aprender: php, Sql, ReactJS y Java
 - 🏢 todos mis proyectos los puedes ver aqui: 
